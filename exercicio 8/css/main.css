@@ -1,0 +1,71 @@
+  #nav{
+    list-style: none;
+    display: flex;
+    flex-flow: column wrap; 
+  } 
+  #nav ul{
+    list-style:none;
+    padding:12px;
+  }
+  #nav li{
+    padding:8px;
+  }
+  #nav a{
+    font-family:Tahoma;
+    text-decoration:none;
+    color: black;	
+    padding:10px;
+  }
+  header{
+    padding:64px;
+    background-color:grey;
+    color:white;
+    width:150px;
+    height:60px
+  }
+    aside{
+    padding:10px;
+    background-color:#DCDCDC;
+    width:258px;
+    height:370px;
+  }
+  #nav a:hover{
+    color:red;
+    text-decoration:underline;
+  }
+  .logo1{
+    float:left;
+    padding:9px
+  }
+  .logo2{
+    float:left;
+    padding:9px
+  }  
+  .logo3{
+    float:left;
+    padding:9px
+  }  
+  .logo4{
+    float:left;
+    padding:9px
+  }  
+  .logo5{
+    float:left;
+    padding:9px
+  }  
+  .logo6{
+    float:left;
+    padding:9px
+  }  
+  .logo7{
+    float:left;
+    padding:9px
+  } 
+  .logo8{
+    float:left;
+    padding:9px
+  }  
+  .logo9{
+    float:left;
+    padding:9px
+  } 
